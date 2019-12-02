@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LisaSmithen/clickygame/issues"
   },
-  "homepage": "https://github.com/LisaSmithen/clickygame#readme"
+  "homepage": "https://github.com/LisaSmithen/clickygame#readme",
+  "dependencies": {
+    "react-favicon": "0.0.17"
+  }
 }
